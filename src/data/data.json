@@ -40,8 +40,12 @@
                 "title": "微博搜索"
             },
             {
+                "link": "https://weixin.sogou.com/",
+                "title": "微信搜索"
+            },
+            {
                 "link": "https://zhihu.sogou.com/",
-                "title": "搜狗知乎"
+                "title": "知乎"
             },
             {
                 "link": "https://www.tianyancha.com/",
@@ -60,16 +64,10 @@
                 "title": "出版物查询"
             },
             {
-                "link": "https://www.alipansou.com/",
-                "searchUrl": "https://www.alipansou.com/search?k=[kw]",
-                "title": "猫狸盘搜",
-                "open": true
+                "link": "https://www.acgsou.com/",
+                "title": "查字典"
             },
-            {
-                "link": "https://cn.bing.com/search?q=%22pan.baidu.com%22",
-                "searchUrl": "https://cn.bing.com/search?q=%22pan.baidu.com%22%20[kw]",
-                "title": "Bing高级搜索"
-            },
+
             {
                 "link": "https://m.sm.cn/s?q=%22pan.baidu.com%22",
                 "searchUrl": "https://m.sm.cn/s?q=%22pan.baidu.com%22%20[kw]",
