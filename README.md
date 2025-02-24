@@ -6,6 +6,10 @@ Demo: [http://s.diglit.cn](http://s.diglit.cn)
 
 0-1、首先你需要在本地安装 node 环境，node 下载： [https://nodejs.org/en/](https://nodejs.org/en/)
 
+node -v 22.14.0
+
+npm -v 10.9.2
+
 测试下载安装是否准确：打开 cmd(terminal)，输入`node -v` 以及`npm -v`（分开两次输入）
 
 如果均显示了对应的版本信息，那么就安装准确！
