@@ -4,8 +4,17 @@
         "title": "快搜",
         "sites": [
             {
+                "link": "https://www.doubao.com/chat/",
+                "title": "豆包"
+            },
+            {
+                "link": "https://kimi.moonshot.cn/",
+                "title": "KIMI"
+            },
+            {
                 "link": "https://www4.bing.com/",
-                "title": "Bing"
+                "title": "Bing",
+                "open": true
             },
             {
                 "link": "https://hunhepan.com/",
@@ -15,16 +24,7 @@
                 "link": "https://www.kkpanso.com/",
                 "title": "百度"
             },
-            {
-                "link": "https://www.zhaokeya.com/",
-                "searchUrl": "https://www.zhaokeya.com/search?q=[kw]",
-                "title": "学搜搜(酷搜)"
-            },
-            {
-                "link": "https://kankanso.com",
-                "searchUrl": "https://kankanso.com/#/main/?q=[kw]",
-                "title": "优聚搜(v3)"
-            },
+
             {
                 "link": "https://jujuso.com",
                 "searchUrl": "https://jujuso.com/#/main/?q=[kw]",
