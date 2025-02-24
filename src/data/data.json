@@ -52,15 +52,12 @@
                 "title": "查快递"
             },
             {
-                "link": "https://dapanso.com/",
-                "searchUrl": "https://dapanso.com/search?keyword=[kw]&page=1&type=",
-                "title": "大盘搜"
+                "link": "https://zhaotaici.cn/",
+                "title": "找台词"
             },
             {
-                "link": "https://pan.qianfan.app/",
-                "searchUrl": "https://pan.qianfan.app/search/?pan=all&q=[kw]",
-                "title": "千帆网盘",
-                "open": true
+                "link": "https://pdc.capub.cn/",
+                "title": "出版物查询"
             },
             {
                 "link": "https://www.alipansou.com/",
@@ -127,8 +124,8 @@
                 "title": "Fastsoso"
             },
             {
-                "link": "https://www.lingfengyun.com/",
-                "title": "凌风云搜索"
+                "link": "https://www.plantplus.cn/cn",
+                "title": "植物物种"
             }
         ]
     },
