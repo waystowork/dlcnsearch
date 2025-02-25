@@ -85,19 +85,17 @@
                 "title": "专利检索"
             },
             {
-                "link": "https://www.xiaozhukuaipan.com/",
-                "searchUrl": "https://www.xiaozhukuaipan.com/s/search?q=[kw]&currentPage=1",
-                "title": "小猪快盘"
+                "link": "https://www.amap.com/",
+                "title": "高德地图"
             },
             {
-                "link": "http://feiyu100.cn/home",
-                "searchUrl": "http://feiyu100.cn/home",
-                "title": "飞鱼盘搜[需关注]"
+                "link": "https://www.shidianguji.com/",
+                "title": "识典古籍",
+                "open": true
             },
             {
-                "link": "https://www.iizhi.cn/",
-                "searchUrl": "https://www.iizhi.cn/resource/search/[kw]?searchtype=0",
-                "title": "毕方铺[需登录]"
+                "link": "https://worldvectorlogo.com/",
+                "title": "品牌LOGO"
             },
             {
                 "link": "https://www.xiaobaipan.com/",
