@@ -123,83 +123,152 @@
     },
     "searchEngin": {
         "alias": "searchEngin",
-        "title": "搜索",
+        "title": "学术",
         "sites": [
             {
-                "link": "https://cn.bing.com",
-                "searchUrl": "https://cn.bing.com/search?q=[kw]",
-                "title": "必应搜索"
+                "link": "https://cn.bing.com/academic/",
+                "title": "必应学术"
+            },
+			{
+			    "link": "https://bothonce.com",
+			    "title": "SCI-HUB"
+			},
+            {
+                "link": "https://www.oalib.com/",
+                "title": "Oalib"
+            },
+			{
+			    "link": "https://www.termonline.cn/index",
+			    "title": "术语在线"
+			},
+            {
+                "link": "https://scholar.cnki.net/",
+                "title": "知网学术"
             },
             {
-                "link": "https://www.dogedoge.com/",
-                "searchUrl": "https://www.dogedoge.com/results?q=[kw]",
-                "title": "多吉搜索"
+                "link": "https://www.wanfangdata.com.cn/",
+                "title": "万方学术"
             },
             {
-                "link": "https://mijisou.com/",
-                "searchUrl": "https://mijisou.com/?q=[kw]&category_general=on&time_range=&language=zh-CN&pageno=1",
-                "title": "秘迹搜索"
+                "link": "https://aminer.org",
+                "title": "Aminer"
             },
             {
-                "link": "https://www.baidu.com/",
-                "searchUrl": "https://www.baidu.com/s?wd=[kw]",
-                "title": "百度搜索"
+                "link": "https://pubscholar.cn/",
+                "title": "Pubscholar"
             },
             {
-                "link": "https://www.cupfox.com/",
-                "searchUrl": "https://www.cupfox.com/search?key=[kw]",
-                "title": "茶杯狐搜索"
+                "link": "https://consensus.app/search/",
+                "title": "Consensus"
             },
             {
-                "link": "https://www.so.com/",
-                "searchUrl": "https://www.so.com/s?ie=utf-8&q=[kw]",
-                "title": "360搜索"
+                "link": "https://oa.mg/",
+                "title": "OA.mg"
             },
             {
-                "link": "https://www.acgsou.com/",
-                "searchUrl": "https://www.36dm.club/search.php?keyword=[kw]",
-                "title": "ACG搜索"
+                "link": "https://www.scimagojr.com/",
+                "title": "SJR"
             },
             {
-                "link": "https://www.sogou.com",
-                "searchUrl": "https://www.sogou.com/web?query=[kw]&ie=utf8",
-                "title": "搜狗搜索"
+                "link": "https://www.letpub.com.cn/index.php?page=journalapp",
+                "title": "SCI影响因子",
+				"open": true
             },
             {
-                "link": "https://weixin.sogou.com/",
-                "searchUrl": "https://weixin.sogou.com/weixin?type=2&query=[kw]",
-                "title": "搜狗微信"
+                "link": "https://www.mbalib.com/",
+                "title": "MBA智库"
             },
-            {
-                "link": "https://zihu.sogou.com",
-                "searchUrl": "https://www.sogou.com/sogou?insite=zhihu.com&ie=utf8&query=[kw]&ie=utf8",
-                "title": "搜狗知乎"
-            }
+			{
+			    "link": "https://www.zhangqiaokeyan.com/",
+			    "title": "掌桥科研"
+			},
+			{
+			    "link": "https://doaj.org/",
+			    "title": "DOAJ"
+			},
+			{
+			    "link": "https://pubmed.ncbi.nlm.nih.gov/",
+			    "title": "PubMed"
+			},
+			{
+			    "link": "https://openi.nlm.nih.gov/",
+			    "title": "OPENi",
+				"open": true
+			}
         ]
     },
     "music": {
         "alias": "music",
-        "title": "音乐",
+        "title": "书籍",
         "sites": [
             {
-                "link": "https://music.daimadog.com/",
-                "title": "代码狗音乐"
+                "link": "https://www.jiumodiary.com/",
+                "title": "鸠摩搜书"
             },
             {
-                "link": "http://music.runker.net/",
-                "title": "行客音乐"
+                "link": "https://www.shuge.org/",
+                "title": "书格"
             },
             {
-                "link": "http://www.musictool.top/",
-                "title": "音乐搜索神器"
+                "link": "https://weread.qq.com/",
+                "title": "微信读书"
             },
             {
-                "link": "http://music.jsososo.com/",
-                "title": "网易云音乐"
+                "link": "https://g2.ltfc.net/",
+                "title": "中华珍宝馆"
             },
             {
-                "link": "http://tool.liumingye.cn/music/",
-                "title": "MyFreeMp3"
+                "link": "https://www.kandianguji.com/",
+                "title": "看典古籍"
+            },
+            {
+                "link": "https://cadal.edu.cn/index/home",
+                "title": "数字图书馆"
+            },
+            {
+                "link": "https://kgbook.com/",
+                "title": "苦瓜书盘"
+            },
+            {
+                "link": "https://www.sopandas.cn/",
+                "title": "熊猫搜盘"
+            },
+            {
+                "link": "https://bks.thefuture.top/",
+                "title": "TheFuture"
+            },
+            {
+                "link": "https://www.shuzhou.cc/",
+                "title": "书舟搜索"
+            },
+            {
+                "link": "https://findbooks.eu.org/",
+                "title": "找书网"
+            },
+            {
+                "link": "https://www.shukui.net/",
+                "title": "书葵网"
+            },
+            {
+                "link": "https://www.duxiu.com/",
+                "title": "读秀",
+				"open": true
+            },
+            {
+                "link": "https://cadal.edu.cn/index/home",
+                "title": "数字图书馆"
+            },
+            {
+                "link": "https://kgbook.com/",
+                "title": "苦瓜书盘"
+            },
+            {
+                "link": "https://www.sopandas.cn/",
+                "title": "熊猫搜盘"
+            },
+            {
+                "link": "https://bks.thefuture.top/",
+                "title": "TheFuture"
             }
         ]
     },
