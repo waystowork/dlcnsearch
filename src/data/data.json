@@ -20,14 +20,18 @@
                 "title": "DeepSeek",
                 "open": true
             },
+			{
+			    "link": "https://s.diglit.cn/mly/googlex.html",
+			    "title": "Google"
+			},
             {
                 "link": "https://www4.bing.com/",
                 "title": "Bing",
                 "open": true
             },
             {
-                "link": "https://hunhepan.com/",
-                "title": "Google"
+                "link": "https://s.diglit.cn/mly/baidu.html",
+                "title": "百度"
             },
             {
                 "link": "https://yandex.com/",
@@ -134,9 +138,17 @@
         "title": "学术",
         "sites": [
             {
+                "link": "https://s.diglit.cn/mly/googlexueshu.html",
+                "title": "Google"
+            },
+			{
                 "link": "https://cn.bing.com/academic/",
                 "title": "必应学术"
             },
+			{
+			    "link": "https://s.diglit.cn/mly/baiduxueshu.html",
+			    "title": "百度学术"
+			},
 			{
 			    "link": "https://bothonce.com",
 			    "title": "SCI-HUB"
@@ -210,6 +222,10 @@
         "title": "书籍",
         "sites": [
             {
+                "link": "https://s.diglit.cn/mly/google.html",
+                "title": "Google"
+            },
+			{
                 "link": "https://www.jiumodiary.com/",
                 "title": "鸠摩搜书"
             },
@@ -222,6 +238,10 @@
                 "title": "微信读书"
             },
             {
+                "link": "https://s.diglit.cn/mly/gutengbao.html",
+                "title": "古藤堡"
+            },
+			{
                 "link": "https://g2.ltfc.net/",
                 "title": "中华珍宝馆"
             },
