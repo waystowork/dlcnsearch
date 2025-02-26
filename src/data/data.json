@@ -4,6 +4,10 @@
         "title": "快搜",
         "sites": [
             {
+                "link": "https://datong.info/",
+                "title": "大同搜索"
+            },
+            {
                 "link": "https://www.doubao.com/chat/",
                 "title": "豆包"
             },
@@ -24,6 +28,11 @@
             {
                 "link": "https://hunhepan.com/",
                 "title": "Google"
+            },
+            {
+                "link": "https://yandex.com/",
+                "title": "Yandex",
+                "open": true
             },
             {
                 "link": "https://www.kkpanso.com/",
@@ -98,9 +107,9 @@
                 "title": "品牌LOGO"
             },
             {
-                "link": "https://www.xiaobaipan.com/",
-                "searchUrl": "https://www.xiaobaipan.com/list-[kw].html",
-                "title": "小白盘搜索"
+                "link": "https://www.listennotes.com/",
+                "title": "播客",
+                "open": true
             },
             {
                 "link": "https://www.xiaoso.net/",
