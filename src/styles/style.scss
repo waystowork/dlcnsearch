@@ -65,7 +65,7 @@ header {
         a {
           @include a-default;
           font-size: 1rem;
-          font-weight: bold;
+          font-weight: normal;
         }
       }
     }
@@ -153,8 +153,8 @@ main {
             linear,
             left top,
             right top,
-            from(#767f88),
-            to(#ecf0f1)
+            from(#ff8c31),
+            to(#ff8c31)
           );
           a {
             color: $primary-color;
