@@ -481,22 +481,48 @@
                 "title": "福布斯榜单"
             },
             {
-                "link": "https://y.qq.com/n/ryqq/toplist/4",
-                "title": "QQ音乐流行榜"
+                "link": "https://topic.expreview.com/CPU/",
+                "title": "CPU天梯榜"
             },
             {
-                "link": "https://music.douban.com/chart",
-                "title": "豆瓣音乐榜",
-                "open": true
+                "link": "https://china.nba.cn/standings",
+                "title": "NBA排名"
             },
             {
-                "link": "https://www.kugou.com/yy/html/rank.html",
-                "title": "酷狗音乐榜",
-                "open": true
+                "link": "https://www.wtatennis.com/rankings/singles",
+                "title": "网球排名"
             },
             {
-                "link": "https://www.fortunechina.com/rankings/home.htm",
-                "title": "财富榜单"
+                "link": "https://github.com/trending",
+                "title": "Github热门"
+            },
+            {
+                "link": "http://www.shanghairanking.cn/",
+                "title": "大学及学科排名"
+            },
+            {
+                "link": "http://top100.imicams.ac.cn/ASTEM/hospital",
+                "title": "全国医院排名"
+            },
+            {
+                "link": "https://www.forbeschina.com/lists",
+                "title": "福布斯榜单"
+            },
+            {
+                "link": "https://topic.expreview.com/CPU/",
+                "title": "CPU天梯榜"
+            },
+            {
+                "link": "https://china.nba.cn/standings",
+                "title": "NBA排名"
+            },
+            {
+                "link": "https://www.wtatennis.com/rankings/singles",
+                "title": "网球排名"
+            },
+            {
+                "link": "https://github.com/trending",
+                "title": "Github热门"
             }
         ]
     }
