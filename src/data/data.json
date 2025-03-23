@@ -223,6 +223,11 @@
 			    "link": "https://openi.nlm.nih.gov/",
 			    "title": "OPENi",
 				"open": true
+			},
+			{
+			    "link": "https://szsyw.cn/more",
+			    "title": "More",
+				"open": true
 			}
         ]
     },
