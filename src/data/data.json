@@ -260,63 +260,50 @@
 			},
             {
 			    "link": "https://www.medsci.cn/sci/paperlist.do",
-			    "title": "梅斯文献查询"
+			    "title": "梅斯文献查询",
+				"open": true
 			},
             {
 			    "link": "https://www.base-search.net/?l=zh",
-			    "title": "比菲尔德学术"
+			    "title": "比菲尔德学术搜索"
 			},
             {
 			    "link": "https://www.ucpress.edu/",
 			    "title": "ucpress"
 			},
             {
-			    "link": "http://www.bioline.org.br/",
-			    "title": "发展中国家联合期刊库"
+			    "link": "https://www.persee.fr/",
+			    "title": "Persee",
+				"open": true
 			},
             {
-			    "link": "http://www.bioline.org.br/",
-			    "title": "发展中国家联合期刊库"
+			    "link": "https://www.mcmaster.ca/",
+			    "title": "Mcmaster"
 			},
             {
-			    "link": "http://www.bioline.org.br/",
-			    "title": "发展中国家联合期刊库"
+			    "link": "https://www.scirp.org/journal/",
+			    "title": "Journal"
 			},
             {
-			    "link": "http://www.bioline.org.br/",
-			    "title": "发展中国家联合期刊库"
+			    "link": "https://arxiv.org/",
+			    "title": "Arxiv",
+				"open": true
 			},
             {
-			    "link": "http://www.bioline.org.br/",
-			    "title": "发展中国家联合期刊库"
+			    "link": "https://theses.fr/?domaine=theses",
+			    "title": "论文期刊库"
 			},
             {
-			    "link": "http://www.bioline.org.br/",
-			    "title": "发展中国家联合期刊库"
+			    "link": "https://jpsearch.go.jp/",
+			    "title": "Japan Search"
 			},
             {
-			    "link": "http://www.bioline.org.br/",
-			    "title": "发展中国家联合期刊库"
+			    "link": "https://www.merlot.org/merlot/index.htm",
+			    "title": "MERLOT"
 			},
             {
-			    "link": "http://www.bioline.org.br/",
-			    "title": "发展中国家联合期刊库"
-			},
-            {
-			    "link": "http://www.bioline.org.br/",
-			    "title": "发展中国家联合期刊库"
-			},
-            {
-			    "link": "http://www.bioline.org.br/",
-			    "title": "发展中国家联合期刊库"
-			},
-            {
-			    "link": "http://www.bioline.org.br/",
-			    "title": "发展中国家联合期刊库"
-			},
-            {
-			    "link": "http://www.bioline.org.br/",
-			    "title": "发展中国家联合期刊库"
+			    "link": "https://www.britannica.com/",
+			    "title": "大英百科全书"
 			},
 			{
 			    "link": "https://szsyw.cn/xuexi",
