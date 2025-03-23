@@ -418,8 +418,8 @@
                 "title": "同花顺股市行情"
             },
             {
-                "link": "https://xueqiu.com/hq",
-                "title": "雪球股市行情"
+                "link": "http://news.sina.com.cn/hotnews/",
+                "title": "新浪热点新闻"
             },
             {
                 "link": "https://www.redian.me/",
@@ -499,7 +499,8 @@
             },
             {
                 "link": "https://github.com/trending",
-                "title": "Github热门"
+                "title": "Github热门",
+                "open": true
             },
             {
                 "link": "http://www.shanghairanking.cn/",
@@ -507,27 +508,24 @@
             },
             {
                 "link": "http://top100.imicams.ac.cn/ASTEM/hospital",
-                "title": "全国医院排名"
+                "title": "全国医院排名",
+                "open": true
             },
             {
                 "link": "https://www.iimedia.cn/c880",
                 "title": "艾瑞金榜"
             },
             {
-                "link": "https://topic.expreview.com/CPU/",
-                "title": "CPU天梯榜"
+                "link": "https://index.baidu.com/v2/rank/index.html?#/industryrank",
+                "title": "百度行业排行"
             },
             {
-                "link": "https://china.nba.cn/standings",
-                "title": "NBA排名"
+                "link": "https://www.newrank.cn/ranklist/gongzhonghao",
+                "title": "新媒体排行"
             },
             {
-                "link": "https://www.wtatennis.com/rankings/singles",
-                "title": "网球排名"
-            },
-            {
-                "link": "https://github.com/trending",
-                "title": "Github热门"
+                "link": "https://report.amap.com/index.do",
+                "title": "城市拥堵榜"
             }
         ]
     }
