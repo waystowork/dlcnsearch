@@ -295,15 +295,18 @@
 			},
             {
 			    "link": "https://jpsearch.go.jp/",
-			    "title": "Japan Search"
+			    "title": "Japan Search",
+				"open": true
 			},
             {
 			    "link": "https://www.merlot.org/merlot/index.htm",
-			    "title": "MERLOT"
+			    "title": "MERLOT",
+				"open": true
 			},
             {
 			    "link": "https://www.britannica.com/",
-			    "title": "大英百科全书"
+			    "title": "大英百科全书",
+				"open": true
 			},
 			{
 			    "link": "https://szsyw.cn/xuexi",
