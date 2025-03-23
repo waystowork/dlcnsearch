@@ -465,11 +465,38 @@
             },
             {
                 "link": "https://www.kugou.com/yy/html/rank.html",
-                "title": "酷狗音乐榜"
+                "title": "酷狗音乐榜",
+                "open": true
             },
             {
-                "link": "http://list.mtime.com/listIndex",
-                "title": "时光电影热门"
+                "link": "https://www.fortunechina.com/rankings/home.htm",
+                "title": "财富榜单"
+            },
+            {
+                "link": "https://www.hurun.net/zh-CN/Rank/HsRankDetails?pagetype=rich",
+                "title": "胡润百富榜"
+            },
+            {
+                "link": "https://www.forbeschina.com/lists",
+                "title": "福布斯榜单"
+            },
+            {
+                "link": "https://y.qq.com/n/ryqq/toplist/4",
+                "title": "QQ音乐流行榜"
+            },
+            {
+                "link": "https://music.douban.com/chart",
+                "title": "豆瓣音乐榜",
+                "open": true
+            },
+            {
+                "link": "https://www.kugou.com/yy/html/rank.html",
+                "title": "酷狗音乐榜",
+                "open": true
+            },
+            {
+                "link": "https://www.fortunechina.com/rankings/home.htm",
+                "title": "财富榜单"
             }
         ]
     }
