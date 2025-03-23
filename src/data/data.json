@@ -4,6 +4,10 @@
         "title": "快搜",
         "sites": [
             {
+			    "link": "https://s.diglit.cn/mly/googlex.html",
+			    "title": "Google"
+			},
+            {
                 "link": "https://datong.info/",
                 "title": "大同搜索"
             },
@@ -380,15 +384,24 @@
         "title": "热榜",
         "sites": [
             {
-                "link": "https://ihothub.com/",
-                "title": "爱热榜"
+                "link": "https://top.baidu.com/",
+                "title": "百度热搜"
+            },
+            {
+                "link": "https://trends.so.com/hot",
+                "title": "360热搜"
+            },
+            {
+                "link": "https://www.zhihu.com/billboard",
+                "title": "知乎热榜",
+                "open": true
             },
             {
                 "link": "https://mo.fish/",
                 "title": "鱼塘热榜"
             },
             {
-                "link": "https://s.weibo.com/top/summary?cate=homepage",
+                "link": "https://weibo.com/newlogin?tabtype=search&gid=&openLoginLayer=0&url=",
                 "title": "微博热搜"
             },
             {
@@ -402,6 +415,61 @@
             {
                 "link": "http://top.sogou.com/",
                 "title": "搜狗热搜"
+            },
+            {
+                "link": "https://www.redian.me/",
+                "title": "Redian"
+            },
+            {
+                "link": "https://readhub.cn/",
+                "title": "Readhub"
+            },
+            {
+                "link": "https://trends.so.com/hot",
+                "title": "360热搜"
+            },
+            {
+                "link": "https://www.bilibili.com/ranking",
+                "title": "B站热门视频"
+            },
+            {
+                "link": "https://piaofang.maoyan.com/dashboard",
+                "title": "电影票房榜"
+            },
+            {
+                "link": "https://movie.douban.com/chart",
+                "title": "豆瓣电影排行",
+                "open": true
+            },
+            {
+                "link": "https://v.qq.com/biu/ranks/?t=hotsearch",
+                "title": "全网影视排行榜"
+            },
+            {
+                "link": "http://list.mtime.com/listIndex",
+                "title": "时光电影热门"
+            },
+            {
+                "link": "https://music.163.com/#/discover/toplist",
+                "title": "网易音乐榜",
+                "open": true
+            },
+            {
+                "link": "https://y.qq.com/n/ryqq/toplist/4",
+                "title": "QQ音乐流行榜"
+            },
+            {
+                "link": "https://music.douban.com/chart",
+                "title": "豆瓣音乐榜",
+                "open": true
+            },
+            {
+                "link": "https://www.kugou.com/yy/html/rank.html",
+                "title": "酷狗音乐榜"
+            },
+            {
+                "link": "http://list.mtime.com/listIndex",
+                "title": "时光电影热门"
             }
         ]
     }
