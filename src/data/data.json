@@ -175,6 +175,10 @@
                 "title": "知网学术"
             },
             {
+                "link": "https://www.las.ac.cn/",
+                "title": "中科院文献"
+            },
+            {
                 "link": "https://www.wanfangdata.com.cn/",
                 "title": "万方学术"
             },
@@ -224,8 +228,98 @@
 			    "title": "OPENi",
 				"open": true
 			},
+            {
+			    "link": "https://www.zjlib.cn/",
+			    "title": "浙图检索"
+			},
+            {
+			    "link": "https://www.rdfybk.com/",
+			    "title": "人大复印报刊资料"
+			},
+            {
+			    "link": "http://www.ucdrs.superlib.net/",
+			    "title": "全国图书馆联盟",
+				"open": true
+			},
+            {
+			    "link": "https://www.ncpssd.cn/",
+			    "title": "哲学社会科学文献",
+				"open": true
+			},
+            {
+			    "link": "https://www.nstl.gov.cn/",
+			    "title": "国家科技图书文献"
+			},
+            {
+			    "link": "https://www.hanspub.org/",
+			    "title": "汉斯开源期刊"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
+            {
+			    "link": "https://www.medsci.cn/sci/paperlist.do",
+			    "title": "梅斯文献查询"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
+            {
+			    "link": "http://www.bioline.org.br/",
+			    "title": "发展中国家联合期刊库"
+			},
 			{
-			    "link": "https://szsyw.cn/more",
+			    "link": "https://szsyw.cn/xuexi",
 			    "title": "More",
 				"open": true
 			}
