@@ -309,81 +309,6 @@
             }
         ]
     },
-    "movie": {
-        "alias": "movie",
-        "title": "电影",
-        "sites": [
-            {
-                "link": "https://www.dianyinggou.com",
-                "searchUrl": "https://www.dianyinggou.com/so/[kw]",
-                "title": "电影狗"
-            },
-            {
-                "link": "https://www.cupfox.com",
-                "searchUrl": "https://www.cupfox.com/search?key=[kw]",
-                "title": "茶杯狐"
-            },
-            {
-                "link": "https://www.wuhaozhan.net/",
-                "searchUrl": "",
-                "title": "五号站"
-            },
-            {
-                "link": "https://app.movie/",
-                "searchUrl": "https://app.movie/index.php/vod/search.html?wd=[kw]&submit=",
-                "title": "APP影院"
-            },
-            {
-                "link": "https://www.pianku.tv/",
-                "searchUrl": "https://www.pianku.tv/s/[kw].html",
-                "title": "片库"
-            },
-            {
-                "link": "https://www.hanjutv.com/",
-                "searchUrl": "https://www.hanjutv.com/index.php?c=so&module=&keyword=[kw]",
-                "title": "韩剧电影"
-            },
-            {
-                "link": "https://www.wanmeikk.me/",
-                "title": "完美看看"
-            },
-            {
-                "link": "https://www.88ys.com/",
-                "title": "88影视"
-            },
-            {
-                "link": "https://www.zhenbuka.com/",
-                "searchUrl": "https://www.zhenbuka.com/vodsearch/-------------/?wd=[kw]&submit=",
-                "title": "真不卡影院"
-            },
-            {
-                "link": "https://www.duboku.co/",
-                "searchUrl": "https://www.duboku.co/vodsearch/-------------.html?wd=[kw]&submit=",
-                "title": "独播库"
-            }
-        ]
-    },
-    "comic": {
-        "alias": "comic",
-        "title": "动漫",
-        "sites": [
-            {
-                "link": "https://www.agefans.tv/",
-                "searchUrl": "https://www.agefans.tv/search?query=[kw]&page=1",
-                "title": "AgeFans动漫"
-            },
-            {
-                "link": "https://www.clicli.me/",
-                "searchUrl": "https://www.clicli.me/search/[kw]",
-                "title": "CiliCili动漫"
-            },
-            {
-                "link": "https://www.bilibili.com/",
-                "searchUrl": "https://search.bilibili.com/all?keyword=[kw]&from_source=nav_suggest_new",
-                "title": "BiliBili动漫"
-            }
-        ]
-    },
     "hot": {
         "alias": "hot",
         "title": "热榜",
@@ -410,8 +335,8 @@
                 "title": "微博热搜"
             },
             {
-                "link": "https://trends.so.com/hot",
-                "title": "360热搜"
+                "link": "https://36kr.com/hot-list/catalog",
+                "title": "36Kr资讯热榜"
             },
             {
                 "link": "https://q.10jqka.com.cn/",
@@ -430,8 +355,8 @@
                 "title": "Readhub"
             },
             {
-                "link": "https://trends.so.com/hot",
-                "title": "360热搜"
+                "link": "https://www.chinanews.com.cn/scroll-news/news1.html",
+                "title": "中国网热点新闻"
             },
             {
                 "link": "https://www.bilibili.com/ranking",
