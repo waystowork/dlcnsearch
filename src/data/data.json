@@ -8,10 +8,6 @@
 			    "title": "Google"
 			},
             {
-                "link": "https://datong.info/",
-                "title": "大同搜索"
-            },
-            {
                 "link": "https://www.doubao.com/chat/",
                 "title": "豆包"
             },
@@ -23,6 +19,10 @@
                 "link": "https://chat.deepseek.com/",
                 "title": "DeepSeek",
                 "open": true
+            },
+            {
+                "link": "https://datong.info/",
+                "title": "大同搜索"
             },
 			{
 			    "link": "https://s.diglit.cn/mly/googlex.html",
