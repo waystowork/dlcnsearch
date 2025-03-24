@@ -4,7 +4,7 @@
         "title": "快搜",
         "sites": [
             {
-			    "link": "https://s.diglit.cn/mly/googlex.html",
+			    "link": "https://search.diglit.cn/mly/googlex.html",
 			    "title": "Google"
 			},
             {
@@ -34,7 +34,7 @@
                 "open": true
             },
             {
-                "link": "https://s.diglit.cn/mly/baidu.html",
+                "link": "https://search.diglit.cn/mly/baidu.html",
                 "title": "百度"
             },
             {
@@ -142,7 +142,7 @@
         "title": "学术",
         "sites": [
             {
-                "link": "https://s.diglit.cn/mly/googlexueshu.html",
+                "link": "https://search.diglit.cn/mly/googlexueshu.html",
                 "title": "Google"
             },
 			{
@@ -150,7 +150,7 @@
                 "title": "必应学术"
             },
 			{
-			    "link": "https://s.diglit.cn/mly/baiduxueshu.html",
+			    "link": "https://search.diglit.cn/mly/baiduxueshu.html",
 			    "title": "百度学术"
 			},
 			{
@@ -315,7 +315,7 @@
         "title": "书籍",
         "sites": [
             {
-                "link": "https://s.diglit.cn/mly/google.html",
+                "link": "https://search.diglit.cn/mly/google.html",
                 "title": "Google"
             },
 			{
@@ -331,7 +331,7 @@
                 "title": "微信读书"
             },
             {
-                "link": "https://s.diglit.cn/mly/gutengbao.html",
+                "link": "https://search.diglit.cn/mly/gutengbao.html",
                 "title": "古藤堡"
             },
 			{
