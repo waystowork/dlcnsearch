@@ -29,7 +29,7 @@ function _denSelect() {
             const element = _data[key];
             const { alias, title, sites } = element
             // 第一层，分类循环
-            let oOption = $(`<option value="https://12312">懒盘</option>`)
+            let oOption = $(`<option value="https://12312">数智搜索</option>`)
             // oOption.attr('disabled', true)
             oOption.text('======' + title + '======')
             // oSelect.append(oOption)
@@ -39,7 +39,7 @@ function _denSelect() {
             sites.forEach((item, index) => {
 
                 const { link, title } = item;
-                let oOption = $(`<option value="https://12312">懒盘</option>`)
+                let oOption = $(`<option value="https://12312">数智搜索</option>`)
                 oOption.attr('value', link)
                 oOption.text(title)
 
