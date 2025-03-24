@@ -182,6 +182,11 @@
                 "title": "PUB公益学术平台"
             },
             {
+                "link": "https://www.cashl.edu.cn/",
+                "title": "人文社会科学文献",
+				"open": true
+            },
+            {
                 "link": "https://aminer.org",
                 "title": "Aminer"
             },
@@ -307,6 +312,11 @@
 			    "title": "大英百科全书",
 				"open": true
 			},
+            {
+			    "link": "https://ocw.mit.edu/",
+			    "title": "麻省理工开放文献",
+				"open": true
+			},
 			{
 			    "link": "https://szsyw.cn/xuexi",
 			    "title": "More",
@@ -351,6 +361,10 @@
                 "title": "数字图书馆"
             },
             {
+                "link": "https://www.oalib.com/",
+                "title": "OAlib"
+            },
+            {
                 "link": "https://kgbook.com/",
                 "title": "苦瓜书盘"
             },
@@ -380,20 +394,44 @@
 				"open": true
             },
             {
-                "link": "https://cadal.edu.cn/index/home",
-                "title": "数字图书馆"
+                "link": "https://obook.cc/",
+                "title": "偶书",
+				"open": true
             },
             {
-                "link": "https://kgbook.com/",
-                "title": "苦瓜书盘"
+                "link": "https://www.502book.com/",
+                "title": "502book"
             },
             {
-                "link": "https://www.sopandas.cn/",
-                "title": "熊猫搜盘"
+                "link": "http://www.soduzw.com/",
+                "title": "SoDu"
             },
             {
-                "link": "https://bks.thefuture.top/",
-                "title": "TheFuture"
+                "link": "https://www.35ppt.com/",
+                "title": "千秋书在"
+            },
+            {
+                "link": "https://www.pdfdz.com/",
+                "title": "PDF电子书",
+				"open": true
+            },
+            {
+                "link": "https://openelib.org/",
+                "title": "书云",
+				"open": true
+            },
+            {
+                "link": "http://www.banshujiang.cn/",
+                "title": "搬书匠[编程类]"
+            },
+            {
+                "link": "https://www.ituring.com.cn/",
+                "title": "图灵社区"
+            },
+            {
+                "link": "https://www.pdfzj.com/",
+                "title": "PDF之家",
+				"open": true
             }
         ]
     },
