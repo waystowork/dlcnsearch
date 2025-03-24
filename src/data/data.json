@@ -72,6 +72,14 @@
                 "title": "找台词"
             },
             {
+                "link": "https://33.agilestudio.cn/",
+                "title": "通过台词找影片"
+            },
+            {
+                "link": "https://secure.assrt.net/",
+                "title": "找字幕"
+            },
+            {
                 "link": "https://pdc.capub.cn/",
                 "title": "出版物查询"
             },
@@ -369,6 +377,10 @@
                 "title": "苦瓜书盘"
             },
             {
+                "link": "https://kxo.moe/",
+                "title": "Kxo漫画"
+            },
+            {
                 "link": "https://www.sopandas.cn/",
                 "title": "熊猫搜盘"
             },
@@ -435,6 +447,147 @@
             }
         ]
     },
+    "pic": {
+        "alias": "pic",
+        "title": "图片",
+        "sites": [
+            {
+                "link": "https://graph.baidu.com/pcpage/index?tpl_from=pc",
+                "title": "百度识图"
+            },
+			{
+                "link": "https://pic.sogou.com/",
+                "title": "搜狗识图"
+            },
+            {
+                "link": "https://images.google.com/",
+                "title": "谷歌识图",
+				"open": true
+            },
+            {
+                "link": "https://huaban.com/",
+                "title": "花瓣网"
+            },
+            {
+                "link": "https://www.zcool.com.cn/",
+                "title": "站酷"
+            },
+			{
+                "link": "https://www.soogif.com/",
+                "title": "SoGif[GIF]"
+            },
+            {
+                "link": "https://giphy.com/",
+                "title": "Giphy[GIF]"
+            },
+            {
+                "link": "http://www.weshineapp.com/",
+                "title": "Weshine[GIF]"
+            },
+            {
+                "link": "https://unsplash.com/",
+                "title": "Unsplash",
+				"open": true
+            },
+            {
+                "link": "https://pixabay.com/",
+                "title": "Pixabay",
+				"open": true
+            },
+			{
+                "link": "https://www.pexels.com/zh-cn/",
+                "title": "Pexels"
+            },
+            {
+                "link": "https://www.lifeofpix.com/",
+                "title": "Lifeofpix",
+				"open": true
+            },
+            {
+                "link": "https://www.shopify.com/stock-photos",
+                "title": "Burst",
+				"open": true
+            },
+            {
+                "link": "https://freerangestock.com/",
+                "title": "Freerangestock"
+            },
+            {
+                "link": "https://gratisography.com/",
+                "title": "Gratisography"
+            },
+            {
+                "link": "https://freephotos.cc/",
+                "title": "Freephotos"
+            },
+            {
+                "link": "https://librestock.com/",
+                "title": "Librestock[免费]",
+				"open": true
+            },
+            {
+                "link": "https://nos.twnsnd.co/",
+                "title": "Twnsnd[免费]"
+            },
+            {
+                "link": "https://foter.com/",
+                "title": "Foter",
+				"open": true
+            },
+            {
+                "link": "https://morguefile.com/",
+                "title": "Morguefile"
+            },
+            {
+                "link": "https://www.rawpixel.com/",
+                "title": "Rawpixel",
+				"open": true
+            },
+            {
+                "link": "https://visualhunt.com/",
+                "title": "Visualhunt"
+            },
+            {
+                "link": "https://stocksnap.io/",
+                "title": "Stocksnap"
+            },
+            {
+                "link": "https://www.stockvault.net/",
+                "title": "Stockvault"
+            },
+            {
+                "link": "https://girlydrop.com/zh-CN/",
+                "title": "Girlydrop"
+            },
+            {
+                "link": "https://www.pakutaso.com/",
+                "title": "Pakutaso"
+            },
+            {
+                "link": "https://kaboompics.com/",
+                "title": "Kaboompics"
+            },
+            {
+                "link": "https://picjumbo.com/",
+                "title": "Picjumbo"
+            },
+            {
+                "link": "https://pikwizard.com/",
+                "title": "Pikwizard",
+				"open": true
+            },
+            {
+                "link": "http://www.designerspics.com/",
+                "title": "Designerspics"
+            },
+            {
+                "link": "https://wallhaven.cc/",
+                "title": "Wallhaven",
+				"open": true
+            }
+        ]
+    },
+   
     "hot": {
         "alias": "hot",
         "title": "热榜",
