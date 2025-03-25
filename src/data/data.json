@@ -587,7 +587,172 @@
             }
         ]
     },
-   
+   "font": {
+        "alias": "font",
+        "title": "字体",
+        "sites": [
+            {
+                "link": "https://www.qiuziti.com/",
+                "title": "求字体网"
+            },
+			{
+                "link": "https://www.hellofont.cn/font-ai",
+                "title": "字体识别"
+            },
+            {
+                "link": "https://www.hellofont.cn/",
+                "title": "字由"
+            },
+            {
+                "link": "https://ziyouziti.com/",
+                "title": "自由字体[商免]"
+            },
+            {
+                "link": "https://izihun.com/",
+                "title": "字魂"
+            },
+			{
+                "link": "https://www.miao3.cn/",
+                "title": "喵闪字库"
+            },
+            {
+                "link": "https://www.likefont.com/",
+                "title": "识字体网"
+            },
+            {
+                "link": "https://www.diyiziti.com/",
+                "title": "第一字体"
+            },
+            {
+                "link": "https://www.ziziok.com/",
+                "title": "字交所"
+            },
+            {
+                "link": "https://www.100font.com/",
+                "title": "100font[商免]"
+            },
+			{
+                "link": "https://www.maoken.com/",
+                "title": "猫啃网[商免]"
+            },
+            {
+                "link": "https://www.zijia.com.cn/",
+                "title": "字加"
+            },
+            {
+                "link": "https://www.fonts.net.cn/",
+                "title": "字体天下"
+            },
+            {
+                "link": "https://uiiiuiii.com/tool/typeface",
+                "title": "优优网字体下载"
+            },
+            {
+                "link": "https://fonts.safe.360.cn/",
+                "title": "360查字体",
+				"open": true
+            },
+            {
+                "link": "https://www.fontshow.com/zh",
+                "title": "字体秀"
+            },
+            {
+                "link": "https://www.potatofield.cn/fontlibrary",
+                "title": "洋芋田[商免]"
+            },
+            {
+                "link": "https://www.freechinesefont.com/",
+                "title": "CN Font[商免]"
+            },
+            {
+                "link": "https://51font.17font.com/",
+                "title": "51font[商免]"
+            }
+        ]
+    },
+    "movie": {
+        "alias": "movie",
+        "title": "影视",
+        "sites": [
+            {
+                "link": "https://www.iqiyi.com/",
+                "title": "爱奇艺"
+            },
+			{
+                "link": "https://www.hellofont.cn/font-ai",
+                "title": "字体识别"
+            },
+            {
+                "link": "https://www.hellofont.cn/",
+                "title": "字由"
+            },
+            {
+                "link": "https://ziyouziti.com/",
+                "title": "自由字体[商免]"
+            },
+            {
+                "link": "https://izihun.com/",
+                "title": "字魂"
+            },
+			{
+                "link": "https://www.miao3.cn/",
+                "title": "喵闪字库"
+            },
+            {
+                "link": "https://www.likefont.com/",
+                "title": "识字体网"
+            },
+            {
+                "link": "https://www.diyiziti.com/",
+                "title": "第一字体"
+            },
+            {
+                "link": "https://www.ziziok.com/",
+                "title": "字交所"
+            },
+            {
+                "link": "https://www.100font.com/",
+                "title": "100font[商免]"
+            },
+			{
+                "link": "https://www.maoken.com/",
+                "title": "猫啃网[商免]"
+            },
+            {
+                "link": "https://www.zijia.com.cn/",
+                "title": "字加"
+            },
+            {
+                "link": "https://www.fonts.net.cn/",
+                "title": "字体天下"
+            },
+            {
+                "link": "https://uiiiuiii.com/tool/typeface",
+                "title": "优优网字体下载"
+            },
+            {
+                "link": "https://fonts.safe.360.cn/",
+                "title": "360查字体",
+				"open": true
+            },
+            {
+                "link": "https://www.fontshow.com/zh",
+                "title": "字体秀"
+            },
+            {
+                "link": "https://www.potatofield.cn/fontlibrary",
+                "title": "洋芋田[商免]"
+            },
+            {
+                "link": "https://www.freechinesefont.com/",
+                "title": "CN Font[商免]"
+            },
+            {
+                "link": "https://51font.17font.com/",
+                "title": "51font[商免]"
+            }
+        ]
+    },
     "hot": {
         "alias": "hot",
         "title": "热榜",
