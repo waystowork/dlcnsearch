@@ -672,84 +672,101 @@
     },
     "movie": {
         "alias": "movie",
-        "title": "影视",
+        "title": "影音",
         "sites": [
             {
+                "link": "https://search.bilibili.com/all",
+                "title": "哔哩哔哩"
+            },
+            {
+                "link": "https://www.mgtv.com/",
+                "title": "芒果TV"
+            },
+            {
                 "link": "https://www.iqiyi.com/",
-                "title": "爱奇艺"
-            },
-			{
-                "link": "https://www.hellofont.cn/font-ai",
-                "title": "字体识别"
-            },
-            {
-                "link": "https://www.hellofont.cn/",
-                "title": "字由"
-            },
-            {
-                "link": "https://ziyouziti.com/",
-                "title": "自由字体[商免]"
-            },
-            {
-                "link": "https://izihun.com/",
-                "title": "字魂"
-            },
-			{
-                "link": "https://www.miao3.cn/",
-                "title": "喵闪字库"
-            },
-            {
-                "link": "https://www.likefont.com/",
-                "title": "识字体网"
-            },
-            {
-                "link": "https://www.diyiziti.com/",
-                "title": "第一字体"
-            },
-            {
-                "link": "https://www.ziziok.com/",
-                "title": "字交所"
-            },
-            {
-                "link": "https://www.100font.com/",
-                "title": "100font[商免]"
-            },
-			{
-                "link": "https://www.maoken.com/",
-                "title": "猫啃网[商免]"
-            },
-            {
-                "link": "https://www.zijia.com.cn/",
-                "title": "字加"
-            },
-            {
-                "link": "https://www.fonts.net.cn/",
-                "title": "字体天下"
-            },
-            {
-                "link": "https://uiiiuiii.com/tool/typeface",
-                "title": "优优网字体下载"
-            },
-            {
-                "link": "https://fonts.safe.360.cn/",
-                "title": "360查字体",
+                "title": "爱奇艺",
 				"open": true
             },
             {
-                "link": "https://www.fontshow.com/zh",
-                "title": "字体秀"
+                "link": "https://www.youku.com/",
+                "title": "优酷",
+				"open": true
+            },
+			{
+                "link": "https://soupian.pro/",
+                "title": "搜片"
             },
             {
-                "link": "https://www.potatofield.cn/fontlibrary",
-                "title": "洋芋田[商免]"
+                "link": "https://www.freeok.la/",
+                "title": "Freeok"
             },
             {
-                "link": "https://www.freechinesefont.com/",
-                "title": "CN Font[商免]"
+                "link": "https://gaze.run/",
+                "title": "注释影视",
+				"open": true
             },
             {
-                "link": "https://51font.17font.com/",
-                "title": "51font[商免]"
+                "link": "https://kimivod.com/",
+                "title": "Kimivod"
+            },
+			{
+                "link": "https://www.laodifang.tv/",
+                "title": "老地方"
+            },
+            {
+                "link": "https://www.4khdr.cn/",
+                "title": "4K高清"
+            },
+            {
+                "link": "https://www.kuaishou.com/brilliant",
+                "title": "快手短视频"
+            },
+            {
+                "link": "https://movie.douban.com/",
+                "title": "豆瓣电影",
+				"open": true
+            },
+            {
+                "link": "http://www.mtime.com/",
+                "title": "Mtime"
+            },
+			{
+                "link": "https://y.qq.com/",
+                "title": "QQ音乐"
+            },
+            {
+                "link": "https://www.kuwo.cn/",
+                "title": "酷我"
+            },
+            {
+                "link": "http://5sing.kugou.com/index.html",
+                "title": "5SING"
+            },
+            {
+                "link": "https://so.3dmgame.com/?keyword#",
+                "title": "3dmgame"
+            },
+            {
+                "link": "https://www.ximalaya.com/",
+                "title": "喜马拉雅FM",
+				"open": true
+            },
+            {
+                "link": "https://www.lizhi.fm/",
+                "title": "荔枝FM"
+            },
+            {
+                "link": "https://www.qtfm.cn/",
+                "title": "蜻蜓FM",
+				"open": true
+            },
+            {
+                "link": "https://www.missevan.com/",
+                "title": "猫耳FM"
+            },
+            {
+                "link": "https://www.xihachina.com/",
+                "title": "嘻哈中国"
             }
         ]
     },
