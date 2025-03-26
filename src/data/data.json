@@ -139,6 +139,10 @@
                 "title": "植物物种"
             },
             {
+                "link": "https://www.nmpa.gov.cn/datasearch/home-index.html",
+                "title": "国家药品数据查询"
+            },
+            {
                 "link": "https://data.stats.gov.cn/",
                 "title": "国家统计数据",
 				"open": true
