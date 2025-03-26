@@ -50,7 +50,10 @@
                 "link": "https://project.diglit.cn/datex/timezone.html",
                 "title": "世界各地时间查询"
             },
-            
+            {
+                "link": "https://project.diglit.cn/reference/",
+                "title": "开发人员速查表"
+            },
             {
                 "link": "https://s.weibo.com/",
                 "title": "微博搜索"
