@@ -140,7 +140,8 @@
             },
             {
                 "link": "https://www.nmpa.gov.cn/datasearch/home-index.html",
-                "title": "国家药品数据查询"
+                "title": "国家药品数据查询",
+				"open": true
             },
             {
                 "link": "https://data.stats.gov.cn/",
