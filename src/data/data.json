@@ -116,6 +116,10 @@
                 "title": "专利检索"
             },
             {
+                "link": "https://openstd.samr.gov.cn/bzgk/gb/",
+                "title": "国家标准公开查询"
+            },
+            {
                 "link": "https://map.baidu.com/",
                 "title": "百度地图"
             },
@@ -148,6 +152,15 @@
             {
                 "link": "https://www.plantplus.cn/cn",
                 "title": "植物物种"
+            },
+            {
+                "link": "https://spcjsac.gsxt.gov.cn/index.html",
+                "title": "食品安全抽检公布结果查询"
+            },
+            {
+                "link": "https://htsfwb.samr.gov.cn/",
+                "title": "合同示范文本库",
+				"open": true
             },
             {
                 "link": "https://www.nmpa.gov.cn/datasearch/home-index.html",
