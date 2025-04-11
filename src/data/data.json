@@ -4,6 +4,10 @@
         "title": "快搜",
         "sites": [
             {
+                "link": "https://search.szsyw.cn/mly/baidu.html",
+                "title": "百度"
+            },
+            {
 			    "link": "https://search.szsyw.cn/mly/googlex.html",
 			    "title": "Google"
 			},
@@ -32,10 +36,6 @@
                 "link": "https://www4.bing.com/",
                 "title": "Bing",
                 "open": true
-            },
-            {
-                "link": "https://search.szsyw.cn/mly/baidu.html",
-                "title": "百度"
             },
             {
                 "link": "https://yandex.com/",
