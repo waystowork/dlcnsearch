@@ -4,6 +4,10 @@
         "title": "快搜",
         "sites": [
             {
+                "link": "https://learn.szsyw.cn/",
+                "title": "学习时间"
+            },
+            {
                 "link": "https://search.szsyw.cn/mly/baidu.html",
                 "title": "百度"
             },
